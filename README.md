@@ -1,6 +1,6 @@
 # Welcome to Akshay's Store
 
-- This project is made using HTML and CSS without any fraamework.
+- This project is made using HTML and CSS without any framework.
 - Website is static without any functionality
 - Perpose to make this project is to showcase my design skills
 
