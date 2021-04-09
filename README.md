@@ -1,3 +1,15 @@
-# ecommerce
+# Welcome to Akshay's Store
 
-ecommerce website design using HTML and CSS
+- This project is made using HTML and CSS without any fraamework.
+- Website is static without any functionality
+- Perpose to make this project is to showcase my design skills
+
+## Designs
+
+- Web view
+
+<img src="./img/desktop.png" alt="My Store Desktop view"/>
+
+- Mobile view
+
+<img src="./img/mobile.png" alt="My Store Desktop view"/>
