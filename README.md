@@ -12,4 +12,8 @@
 
 - Mobile view
 
-<img src="./img/mobile.png" alt="My Store Desktop view"/>
+<img src="./img/phone.png" alt="My Store Desktop view"/>
+
+- iPad view
+
+<img src="./img/ipad.png" alt="My Store Desktop view"/>

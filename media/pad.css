@@ -1,0 +1,44 @@
+@media screen and (max-width: 1100px) and (min-width: 600px) and (orientation: portrait) {
+  /* header */
+  header {
+    margin: 2rem;
+  }
+  header h1 {
+    font-size: 60px;
+  }
+  header ul {
+    display: none;
+  }
+  header .search-box {
+    padding-top: 1rem;
+    font-size: 30px;
+  }
+  header .search-box input {
+    font-size: 30px;
+  }
+
+  header .user-logo i {
+    font-size: 40px;
+  }
+  header .user-logo i:nth-child(3) {
+    display: inline;
+  }
+
+  /* section - aside */
+  aside h3 {
+    font-size: 30px;
+    margin-bottom: 15rem;
+  }
+
+  aside ul {
+    margin-bottom: 20rem;
+  }
+
+  aside ul li {
+    font-size: 20px;
+  }
+
+  aside div {
+    font-size: 24px;
+  }
+}
